@@ -1,9 +1,8 @@
-# graduation
+# Creating a ReadMe
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-    
-grat
+this page shows us how to created a readme form a the console.log
 
 ## Table of Contents
 
@@ -17,12 +16,10 @@ grat
     2. [E-mail](#e-mail-address)
     
 ## Installation
-    
-no
+    nodeJS
     
 ## Usage
-    
-no'
+    this helps us created a easy readme that is fast and very precise also straight to the point
 
 ## License
 
@@ -30,7 +27,6 @@ The MIT License
     
 ## Contributing
     
-no
     
 ## Tests
     
@@ -38,6 +34,5 @@ no
 
 ## Questions
 ### Github Profile
-https://github.com/sccorneill
-### E-mail Address
-shl
+https://github.com/sccorneille
+
